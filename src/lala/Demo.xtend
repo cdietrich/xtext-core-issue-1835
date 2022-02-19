@@ -1,0 +1,5 @@
+package lala
+
+class Demo {
+	
+}
